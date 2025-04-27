@@ -248,7 +248,6 @@ Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya.
 #### 7. Percobaan Akses Menu Admin
 
 Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka, akan dimuculkan halaman login.
-![alt text](img/auth.png)
 
 #### 8. Fungsi Logout
 
